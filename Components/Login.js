@@ -66,7 +66,7 @@ export default function App({ ...props }) {
               <Text
                 style={{ fontSize: 18, textAlign: "center", color: "white" }}
               >
-                Sign up
+                Sign in
               </Text>
             </TouchableOpacity>
           </View>
